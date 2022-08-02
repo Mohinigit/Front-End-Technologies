@@ -1,0 +1,15 @@
+ol.a{
+    list-style-type: circle;
+}
+
+ol.b{
+    list-style-type : square;
+}
+
+ul.c{
+    list-style-type : upper-roman;
+}
+
+ul.d{
+    list-style-type : lower-alpha;
+}
